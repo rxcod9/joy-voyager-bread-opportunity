@@ -18,7 +18,7 @@ class DataTypesTableSeeder extends Seeder
                 'name'                  => 'opportunities',
                 'display_name_singular' => __('joy-voyager-bread-opportunity::seeders.data_types.opportunity.singular'),
                 'display_name_plural'   => __('joy-voyager-bread-opportunity::seeders.data_types.opportunity.plural'),
-                'icon'                  => 'voyager-bread',
+                'icon'                  => 'voyager-bread voyager-bread-opportunity voyager-bulb',
                 'model_name'            => 'Joy\\VoyagerBreadOpportunity\\Models\\Opportunity',
                 // 'policy_name'           => 'Joy\\VoyagerBreadOpportunity\\Policies\\OpportunityPolicy',
                 // 'controller'            => 'Joy\\VoyagerBreadOpportunity\\Http\\Controllers\\VoyagerBreadOpportunityController',
