@@ -18,7 +18,7 @@ class OpportunitiesTableSeeder extends Seeder
             return false;
         }
 
-        $count = 100;
+        $count = 20;
         Opportunity::factory()
             ->count($count)
             ->state(function (array $attributes) use ($count) {
