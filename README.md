@@ -4,10 +4,10 @@ This [Laravel](https://laravel.com/)/[Voyager](https://voyager.devdojo.com/) mod
 
 By 🐼 [Ramakant Gangwar](https://github.com/rxcod9).
 
-[![Screenshot](https://raw.githubusercontent.com/rxcod9/joy-voyager-bread-opportunity/main/cover.jpg)](https://joy-voyager.herokuapp.com/)
+[![Screenshot](https://raw.githubusercontent.com/rxcod9/joy-voyager-bread-opportunity/main/cover.jpg)](https://joy-voyager.kodmonk.com/)
 
 [![Latest Version](https://img.shields.io/github/v/release/rxcod9/joy-voyager-bread-opportunity?style=flat-square)](https://github.com/rxcod9/joy-voyager-bread-opportunity/releases)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rxcod9/joy-voyager-bread-opportunity/run-tests?label=tests)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rxcod9/joy-voyager-bread-opportunity/run-tests.yml?branch=main&label=tests)
 [![Total Downloads](https://img.shields.io/packagist/dt/joy/voyager-bread-opportunity.svg?style=flat-square)](https://packagist.org/packages/joy/voyager-bread-opportunity)
 
 ---
@@ -45,7 +45,7 @@ php artisan optimize
 
 ## Working Example
 
-You can try laravel demo here [https://joy-voyager.herokuapp.com/admin/users](https://joy-voyager.herokuapp.com/admin/users).
+You can try laravel demo here [https://joy-voyager.kodmonk.com/admin/users](https://joy-voyager.kodmonk.com/admin/users).
 
 ## Documentation
 
